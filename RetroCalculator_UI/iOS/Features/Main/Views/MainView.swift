@@ -8,6 +8,11 @@
 import SwiftUI
 
 struct MainView: View {
+    
+    // MARK: - Variables
+
+    
+    // MARK: - Views
     var body: some View {
         VStack {
             Image(systemName: "globe")

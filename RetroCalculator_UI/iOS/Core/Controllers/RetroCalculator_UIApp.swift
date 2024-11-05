@@ -11,7 +11,7 @@ import SwiftUI
 struct RetroCalculator_UIApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            MainView()
         }
     }
 }
